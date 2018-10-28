@@ -1,4 +1,4 @@
 # Cache-and-RAM-characteristics
 
-HWa.c -> Program to check RAM size
-HWb.c -> Program to measure cache lines
+HW5a.c -> Program to check RAM size
+HW5b.c -> Program to measure cache lines
